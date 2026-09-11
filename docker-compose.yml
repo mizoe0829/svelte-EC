@@ -1,0 +1,16 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: svelte-app
+    ports:
+      - "5173:5173"
+    volumes:
+      # ホストの変更をコンテナへマウント（ホットリロード）
+      - .:/app
+      # コンテナ内の node_modules と .svelte-kit をホスト側で上書きしないよう保護
+      - /app/node_modules
+      - /app/.svelte-kit
+    environment:
+      - NODE_ENV=development
