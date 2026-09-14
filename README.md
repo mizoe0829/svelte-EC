@@ -3,7 +3,7 @@
 
 SvelteKit、TypeScript、Tailwind CSS、Docker を用いて構築された、ハイエンドガジェット向けECサイトのデモアプリケーションです。
 
-AIエージェント（Google Antigravity）を活用した高速開発プロセスの検証として、環境構築から画面実装・データ定義・Git管理までを1時間未満で構築しました。
+Google Antigravityを活用した高速開発プロセスの検証として、環境構築から画面実装・データ定義・Git管理までを構築しました。
 
 ---
 
