@@ -7,7 +7,7 @@ Google Antigravityを活用した高速開発プロセスの検証として、�
 
 ---
 
-## 🛠 技術スタック (Tech Stack)
+##  技術スタック (Tech Stack)
 
 - **Framework**: SvelteKit (Svelte 5)
 - **Language**: TypeScript
@@ -18,7 +18,7 @@ Google Antigravityを活用した高速開発プロセスの検証として、�
 
 ---
 
-## ✨ 実装機能 (Features)
+##  実装機能 (Features)
 
 - **トップページ / コレクション**: モダンなダークモードUI、商品一覧表示、フィルタリング機能
 - **マイページ**: 会員ステータス（ゴールド会員）、保有ポイント表示、注文履歴・配送ステータス管理
@@ -26,7 +26,7 @@ Google Antigravityを活用した高速開発プロセスの検証として、�
 
 ---
 
-## 🚀 起動方法 (Getting Started)
+##  起動方法 (Getting Started)
 
 ### Docker を使用する場合（推奨）
 
